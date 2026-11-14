@@ -1,0 +1,208 @@
+# NiceBrowser translation template (English base).
+# This catalog lists the user-facing strings used by NiceBrowser. It follows
+# the KOReader gettext PO format: msgid = English, msgstr = translation.
+# Compile translations with msgfmt to l10n/<lang>/nicebrowser.mo; they are
+# loaded and merged into KOReader's gettext table by the plugin's l10n.lua.
+msgid ""
+msgstr ""
+"Project-Id-Version: NiceBrowser\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-14 00:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid " p."
+msgstr ""
+
+msgid "%1%"
+msgstr ""
+
+msgid "%1: %2"
+msgstr ""
+
+msgid "(untitled)"
+msgstr ""
+
+msgid "A fast, minimalist replacement for the KOReader library view, tuned for a Calibre EPUB library."
+msgstr ""
+
+msgid "Add new books"
+msgstr ""
+
+msgid "Author"
+msgstr ""
+
+msgid "Author or title"
+msgstr ""
+
+msgid "Authors"
+msgstr ""
+
+msgid "Authors/facets per page"
+msgstr ""
+
+msgid "Automatic incremental update"
+msgstr ""
+
+msgid "Black & white"
+msgstr ""
+
+msgid "Books per page"
+msgstr ""
+
+msgid "Books sorted by filename"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Clear cover cache"
+msgstr ""
+
+msgid "Colour"
+msgstr ""
+
+msgid "Colours"
+msgstr ""
+
+msgid "Cover cache cleared."
+msgstr ""
+
+msgid "Display"
+msgstr ""
+
+msgid "Double-tap opens book"
+msgstr ""
+
+msgid "Finished"
+msgstr ""
+
+msgid "Font"
+msgstr ""
+
+msgid "Genres"
+msgstr ""
+
+msgid "Greyscale (default)"
+msgstr ""
+
+msgid "Index actions"
+msgstr ""
+
+msgid "Index updated: %1 books."
+msgstr ""
+
+msgid "Indexing %1 / %2"
+msgstr ""
+
+msgid "Library"
+msgstr ""
+
+msgid "Misc"
+msgstr ""
+
+msgid "Navigation"
+msgstr ""
+
+msgid "NiceBrowser"
+msgstr ""
+
+msgid "NiceBrowser settings"
+msgstr ""
+
+msgid "NiceBrowser settings reset."
+msgstr ""
+
+msgid "NiceBrowser: scanning library…\nTap to abort."
+msgstr ""
+
+msgid "Not now"
+msgstr ""
+
+msgid "Page %1 of %2"
+msgstr ""
+
+msgid "Reduced effects/animations"
+msgstr ""
+
+msgid "Replace home screen on start"
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Reset all NiceBrowser settings to defaults?"
+msgstr ""
+
+msgid "Reset all settings"
+msgstr ""
+
+msgid "Restore last level + page"
+msgstr ""
+
+msgid "Sans (SourceSans3)"
+msgstr ""
+
+msgid "Scan"
+msgstr ""
+
+msgid "Scan library (full)"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Search authors"
+msgstr ""
+
+msgid "Search books"
+msgstr ""
+
+msgid "Search titles"
+msgstr ""
+
+msgid "Search whole library"
+msgstr ""
+
+msgid "Search: %1 (%2)"
+msgstr ""
+
+msgid "Serif (SourceSerif4)"
+msgstr ""
+
+msgid "Show A–Z register"
+msgstr ""
+
+msgid "Show top/status bars"
+msgstr ""
+
+msgid "Sort ascending"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
+msgid "The KOReader menu is only available in the library context."
+msgstr ""
+
+msgid "The library index is empty.\nScan the library folder now?"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Two-line titles"
+msgstr ""
+
+msgid "Unknown author"
+msgstr ""
+
+msgid "Unread"
+msgstr ""
+
+msgid "Whole library"
+msgstr ""
+
+msgid "x-page jump"
+msgstr ""

@@ -22,3 +22,10 @@ build/
 
 # Testdateien
 coverage/
+
+# Development
+Agents.md
+IMPLEMENTATION.md
+SPEC.md
+VALIDATION.md
+REVIEW.md
